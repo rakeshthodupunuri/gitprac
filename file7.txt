@@ -1,2 +1,4 @@
 first line on file7
+second line on file7
 thrid line on file7
+fourth line on file7
