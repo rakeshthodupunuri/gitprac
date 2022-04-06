@@ -1,0 +1,2 @@
+first line on fb2.txt
+:wq
